@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="main_show_text">null</string>
+    <string name="main_request_text">模拟请求数据</string>
+    <string name="main_test">测试用</string>
+</resources>
